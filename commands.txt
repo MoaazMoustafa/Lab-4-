@@ -1,0 +1,26 @@
+/////////////locall////////////////
+git init
+git add .
+git commit -m "message"
+
+
+
+///////////to get Remote////////////
+git remote add orgin "URL of the repo"
+git push -u orgin master
+
+
+
+
+
+///////////to clone Ali's repo////////////
+git clone "Ali's repo URL"
+*******making updates*********
+git add .
+git commit -m "message"
+git push
+
+
+
+/////////to pull Ali's updates into my repo////////////
+git pull 
