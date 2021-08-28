@@ -1,0 +1,72 @@
+commit b8bc98cafd58d1227e7fae79a5eb42920c097dec (HEAD -> new-branch)
+Author: Moaaz Moustafa <Moaazmoustafa@gmail.com>
+Date:   Sat Aug 28 15:17:00 2021 +0200
+
+    Revert "Adding the commands file"
+
+    This reverts commit a4ffb19376774583bc8e0fb3b8878c77585e84bc.
+
+commit d8fd0e39017a8be1d6be11427c5b72d4a37c3329 (origin/new-branch)
+Merge: 5aa20ca 68e1fe6
+Author: Moaaz Moustafa <Moaazmoustafa@gmail.com>
+Date:   Sat Aug 28 15:15:03 2021 +0200
+
+    Merge branch 'new-branch' of https://github.com/MoaazMoustafa/Lab-4- into new-branch
+
+commit 5aa20ca391fe1c073acc7b113dcab524e0152c5d
+Author: Moaaz Moustafa <Moaazmoustafa@gmail.com>
+Date:   Sat Aug 28 14:52:18 2021 +0200
+
+    Revert " this will be rolled bach"
+
+    This reverts commit 5b36824336952f0082e15b940eade8cb4d42aa55.
+
+commit 5b36824336952f0082e15b940eade8cb4d42aa55
+Author: Moaaz Moustafa <Moaazmoustafa@gmail.com>
+Date:   Sat Aug 28 14:51:35 2021 +0200
+
+     this will be rolled bach
+
+commit 68e1fe68d60fa2f02b35a690f0598f003b68cc62
+Merge: eb25ada 8bf50ad
+Author: AliMohamed-Ali <elsayedali3632@gmail.com>
+Date:   Sat Aug 28 14:50:58 2021 +0200
+
+    rolback
+
+commit 424b944660b34090cf4d4f2681bc004998ccbad5
+Merge: eb25ada 8bf50ad
+Author: Moaaz Moustafa <Moaazmoustafa@gmail.com>
+Date:   Sat Aug 28 14:33:29 2021 +0200
+
+    Merge remote-tracking branch 'origin/Ali_branch' into new-branch
+
+commit 8bf50ad1304cccb58e21564fdaa0309fde53f9a6
+Author: AliMohamed-Ali <elsayedali3632@gmail.com>
+Date:   Sat Aug 28 14:27:19 2021 +0200
+
+    change by ali
+
+commit eb25adafc51d7d60364bfe05af262f4312111851
+Author: Moaaz Moustafa <Moaazmoustafa@gmail.com>
+Date:   Sat Aug 28 14:04:10 2021 +0200
+
+    this is the first commit in the new branch
+
+commit a4ffb19376774583bc8e0fb3b8878c77585e84bc (origin/master, master)
+Author: Moaaz Moustafa <Moaazmoustafa@gmail.com>
+Date:   Fri Aug 27 17:59:03 2021 +0200
+
+    Adding the commands file
+
+commit 5a1596adc9539a8083a636715f162b8988b1ea9e
+Author: AliMohamed-Ali <elsayedali3632@gmail.com>
+Date:   Fri Aug 27 17:47:25 2021 +0200
+
+    changed by Ali
+
+commit 25f7b117ee7592755040090ef0e2587be1703dc4
+Author: Moaaz Moustafa <Moaazmoustafa@gmail.com>
+Date:   Fri Aug 27 17:01:49 2021 +0200
+
+    This is lab 4 test from Moaaz Moustafa
