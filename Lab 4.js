@@ -1,8 +1,7 @@
-console.log("Moaaz Moustafa and Ali Mohamed Ali")
+function on(){
+  //any comment
+}
 
-
-
-
-
-
-// Edit by Ali
+function test(){
+  //done
+}

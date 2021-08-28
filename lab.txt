@@ -1,0 +1,53 @@
+1- each one create local branch and push it
+
+//git switch Ali_branch
+
+2-each one fetch another remote branch
+
+//git fetch --all
+
+3- rollback commit from local repo
+//git revert
+
+7- log last 5 commit
+//commit 5ecdae3ec24a9ee72973d1a397635402f42ddb36 (HEAD -> Ali_branch, origin/Ali_branch)
+Author: AliMohamed-Ali <elsayedali3632@gmail.com>
+Date:   Sat Aug 28 15:17:42 2021 +0200
+
+    Revert "nothing"
+
+    This reverts commit 5bba4f2f02871a029ca27ec644bd180f4f2f5e8b.
+
+commit 5f6387611f2a9ed2a6880bf030b8756ff3450d4e
+Author: AliMohamed-Ali <elsayedali3632@gmail.com>
+Date:   Sat Aug 28 15:17:34 2021 +0200
+
+    Revert "Revert "remove""
+
+    This reverts commit 15ba77e91c1f0845276bc85b16b3fa0a39f7eac9.
+
+commit d2973818afe55872f7e094d868bf82bf9af32ed2
+Author: AliMohamed-Ali <elsayedali3632@gmail.com>
+Date:   Sat Aug 28 15:17:15 2021 +0200
+
+    Revert "for push"
+
+    This reverts commit b11ca537e4220484404de9934aa569ed3f5b4ffa.
+
+commit b11ca537e4220484404de9934aa569ed3f5b4ffa
+Author: AliMohamed-Ali <elsayedali3632@gmail.com>
+Date:   Sat Aug 28 15:15:03 2021 +0200
+
+    for push
+
+commit 15ba77e91c1f0845276bc85b16b3fa0a39f7eac9
+Author: AliMohamed-Ali <elsayedali3632@gmail.com>
+Date:   Sat Aug 28 15:09:22 2021 +0200
+
+    Revert "remove"
+
+    This reverts commit 817abe55b8e04b98591a2965a3446dbd6dabd1e3.
+
+commit 817abe55b8e04b98591a2965a3446dbd6dabd1e3
+Author: AliMohamed-Ali <elsayedali3632@gmail.com>
+Date:   Sat Aug 28 15:08:50 2021 +0200
